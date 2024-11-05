@@ -1,6 +1,6 @@
 {
   "name": "factorio-fluent-emoji",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "description": "Add Fluent Emoji as virtual signals, which you can use as signals, markers, or in chats.",
   "keywords": [
