@@ -1,0 +1,19 @@
+{
+  "author": "canisminor",
+  "contact": "https://github.com/canisminor1990/factorio-fluent-emoji/issues",
+  "dependencies": ["base >= 2.0.0"],
+  "description": "Add Fluent Emoji as virtual signals, which you can use as signals, markers, or in chats.",
+  "factorio_version": "2.0",
+  "homepage": "https://github.com/canisminor1990/factorio-fluent-emoji",
+  "name": "fluent-emoji",
+  "package": {
+    "readme": "README.md",
+    "gallery": ["gallery/screenshot.png", "gallery/emoji-mart-1.png", "gallery/emoji-mart-2.png"],
+    "git_publish_branch": "releases",
+    "ignore": ["gallery/**/*", "**/*.ts", "**/*.tsx"],
+    "removeZipAfterPackage": true,
+    "sync_portal_details": true
+  },
+  "title": "Fluent Emoji",
+  "version": "1.0.0"
+}
