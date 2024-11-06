@@ -40,7 +40,7 @@ Add Fluent Emoji as virtual signals, which you can use as signals, markers, or i
 ## ✨ Features
 
 - [x] **🤗 Rich Emoji**: Up to **1,339** Emojis have been added as virtual signals, which can be used for signaling, tagging, or chatting.
-- [x] **🎁 Better Chatting**: Support using the Better Chatting module to call emojis, such as `:grinning-face:` => 😀
+- [x] **🎁 Better Chatting**: Support using the [Better Chatting](https://mods.factorio.com/mod/better-chat) to call emojis, such as `:grinning-face:` => 😀
 - [x] **🌐 Internationalization**: Comprehensive i18n translation supporting 14 languages.
 
 <br />
