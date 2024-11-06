@@ -1,7 +1,7 @@
 {
   "author": "canisminor",
   "contact": "https://github.com/canisminor1990/factorio-fluent-emoji/issues",
-  "dependencies": ["base >= 2.0.0"],
+  "dependencies": ["base >= 2.0.0", "?better-chat >= 0.1"],
   "description": "Add Fluent Emoji as virtual signals, which you can use as signals, markers, or in chats.",
   "factorio_version": "2.0",
   "homepage": "https://github.com/canisminor1990/factorio-fluent-emoji",

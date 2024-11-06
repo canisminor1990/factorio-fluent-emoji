@@ -1,4 +1,7 @@
 {
+  "item-group-name": {
+    "fluent-emoji": "Fluent Emoji"
+  },
   "mod-description": {
     "fluent-emoji": "将 Fluent Emoji 添加为虚拟信号，你可以将其当做信号、标记或者在聊天中使用。"
   },

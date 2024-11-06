@@ -1,4 +1,7 @@
 {
+  "item-group-name": {
+    "fluent-emoji": "流暢表情符號"
+  },
   "mod-description": {
     "fluent-emoji": "將 Fluent Emoji 添加為虛擬信號，你可以將其當作信號、標記或者在聊天中使用。"
   },

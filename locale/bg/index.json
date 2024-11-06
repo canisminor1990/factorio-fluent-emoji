@@ -1,4 +1,7 @@
 {
+  "item-group-name": {
+    "fluent-emoji": "Флуент Емоджи"
+  },
   "mod-description": {
     "fluent-emoji": "Добавете Fluent Emoji като виртуален сигнал, който можете да използвате като сигнал, маркер или в чата."
   },

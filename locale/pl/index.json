@@ -1,4 +1,7 @@
 {
+  "item-group-name": {
+    "fluent-emoji": "Emoji Fluent"
+  },
   "mod-description": {
     "fluent-emoji": "Dodaj Fluent Emoji jako wirtualny sygnał, który możesz używać jako sygnał, znacznik lub w czacie."
   },
